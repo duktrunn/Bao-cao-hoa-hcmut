@@ -1,0 +1,19 @@
+\contentsline {chapter}{\numberline {1}BÀI 2: NHIỆT PHẢN ỨNG}{1}%
+\contentsline {section}{\numberline {I}Kết quả thí nghiệm}{1}%
+\contentsline {subsection}{\numberline {a}Thí nghiệm 1: Tìm \textbf {$m_{0}c_{0}$}}{1}%
+\contentsline {subsection}{\numberline {b}Thí nghiệm 2: Nhiệt phản ứng HCl và NaOH}{1}%
+\contentsline {subsection}{\numberline {c}Thí nghiệm 3: Nhiệt độ hòa tan $CuSO_{4}$}{2}%
+\contentsline {subsection}{\numberline {d}Thí nghiệm 4: Nhiệt hòa tan $NH_{4}Cl$}{2}%
+\contentsline {section}{\numberline {II}Trả lời câu hỏi}{2}%
+\contentsline {chapter}{\numberline {2}BÀI 4: BẬC PHẢN ỨNG}{4}%
+\contentsline {section}{\numberline {I}Kết quả thí nghiệm}{4}%
+\contentsline {subsection}{\numberline {a}Thí nghiệm 1: Tìm bậc theo $Na_{2}S_{2}O{3}$}{4}%
+\contentsline {subsection}{\numberline {b}Thí nghiệm 2: Bậc phản ứng theo $H_{2}SO_{4}$}{4}%
+\contentsline {section}{\numberline {II}Trả lời câu hỏi}{5}%
+\contentsline {chapter}{\numberline {3}Bài 8: PHÂN TÍCH THỂ TÍCH}{6}%
+\contentsline {section}{\numberline {I}Kết quả thí nghiệm}{6}%
+\contentsline {subsection}{\numberline {a}Thí nghiệm 1: Xác định đường cong chuẩn độ HCl bằng NaOH}{6}%
+\contentsline {subsection}{\numberline {b}Thí nghiệm 2: Tìm nồng độ HCl với phenolphtalein}{7}%
+\contentsline {subsection}{\numberline {c}Thí nghiệm 3: Tìm nồng độ HCl với Metyl da cam}{7}%
+\contentsline {subsection}{\numberline {d}Thí nghiệm 4: Tìm nồng độ $CH_{3}COOH$}{7}%
+\contentsline {section}{\numberline {II}Trả lời câu hỏi}{7}%

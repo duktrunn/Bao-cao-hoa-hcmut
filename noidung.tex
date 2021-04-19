@@ -1,0 +1,111 @@
+% this package is designed by: thanhhungqb@gmail.com
+% more infor mation and update: 
+%   https://github.com/thanhhungqb/thesis-template
+\documentclass[12pt,a4paper,oneside]{book} % twoside for draf
+
+%\usepackage{babel}
+\usepackage[utf8]{vietnam}
+%\usepackage{times}
+%\usepackage{graphicx}
+
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={160mm,245mm},
+ left=30mm,
+ top=30mm,
+ }
+
+\usepackage{mathptmx}	% same Time New Roma
+%\renewcommand{\rmdefault}{phv} % Arial
+%\renewcommand{\sfdefault}{phv} % Arial
+
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{algorithm2e}
+\usepackage{multirow}
+\usepackage{xhfill}
+\usepackage{bkthesis}
+
+\titleformat
+{\chapter} % command
+[display] % shape
+{\bfseries\Large\itshape} % format
+{} % label
+{0.5ex} % sep
+{
+    \rule{\textwidth}{1pt}
+    \vspace{1ex}
+    \centering
+} % before-code
+[
+\vspace{-0.5ex}%
+\rule{\textwidth}{0.3pt}
+] % after-code
+
+\renewcommand\thesection{\Roman{section}}
+\renewcommand\thesubsection{\alph{subsection}}
+%\thesislayout
+
+\begin{document}
+%-	Bìa cứng - màu xanh dương, chữ mạ vàng (xem mẫu đính kèm)
+%-	Trang tên (tờ lót): chất liệu giấy, nội dung giống như bìa LV
+%-	Ở gáy LV: in nhan đề LV (có thể in tóm tắt nếu nhan đề quá dài), size 15 – 17
+%-	Phiếu Nhiệm vụ LV, chấm điểm Hướng dẫn & Phản biện (đã ký): nhận từ GVHD & GVPB sau khi bảo vệ (theo lịch hẹn).
+%-	Lời cam đoan
+%-	Lời cảm ơn/ Lời ngỏ
+%-	Tóm tắt LV
+%-	Mục lục
+%-	Danh mục, bảng biểu, hình ảnh, ... (nếu có)
+%-	Nội dung LV
+%-	Danh mục TL tham khảo
+%-	Phụ lục (nếu có)
+
+%\coverpage
+
+\frontmatter
+
+% add content here
+%-	Lời cam đoan
+%\begin{declaration}
+%	Tôi xin cam đoan...
+%\end{declaration}
+
+%-	Lời cảm ơn/ Lời ngỏ
+%\begin{acknowledgments}
+%	Tôi xin chân thành cảm ơn ...
+%\end{acknowledgments}
+
+%-	Tóm tắt LV
+%\begin{abstract}
+%	Tóm tắt luận văn ...
+%\end{abstract}	
+	
+\tableofcontents
+%\listofsymbols
+%\listoftables
+%\listoffigures
+%\listofalgorithms
+
+
+\mainmatter
+
+\fancyhead{}  % Clears all page headers and footers
+%\rhead{\thepage}  % Sets the right side header to show the page number
+%\lhead{}  % Clears the left side page header
+%\fancyfoot[positions]{footer}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\pagestyle{fancy}  % Finally, use the "fancy" page style to implement the FancyHdr headers
+
+\input{chapter/Bai2}
+\input{chapter/Bai4}
+\input{chapter/Bai8}
+
+%-	Danh mục TL tham khảo
+%-	Phụ lục (nếu có)
+
+\bibliographystyle{plain} % ieeetr
+\bibliography{refs} 
+
+\end{document}
