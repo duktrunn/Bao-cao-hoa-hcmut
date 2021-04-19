@@ -4,6 +4,7 @@ Xin chào mọi người, đây là form mẫu Báo Cáo Hóa Đại Cương c�
    * Bìa ngoài năm ở thư mục Bìa-Ngoài
    * Bìa trong nằm ở thư mục Bìa-Trong
    * Nội dung báo cáo nằm ở thư mục Nội-Dung
+Để hiện thư mục, hãy bấm vào chữ "main" có hình tam giác ngược.
    
 Đây hiện tại chưa phải là bài báo cáo hoàn chỉnh nên mọi người chỉ tham khảo code LaTeX. Phần báo cáo hoàn chỉnh sẽ được update trong 1 vài ngày tới.
 
