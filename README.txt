@@ -8,6 +8,6 @@ Xin chào mọi người, đây là form mẫu Báo Cáo Hóa Đại Cương c�
    
 Đây hiện tại chưa phải là bài báo cáo hoàn chỉnh nên mọi người chỉ tham khảo code LaTeX. Phần báo cáo hoàn chỉnh sẽ được update trong 1 vài ngày tới.
 
-Nếu có lỗi phát sinh hãy phản hồi tại email: phuc.lam1912@hcmut.edu.vn
+Nếu có lỗi phát sinh hãy phản hồi tại đây hoặc email: phuc.lam1912@hcmut.edu.vn
 
 Tham khảo từ mẫu của anh thanhhungqb: https://github.com/thanhhungqb/thesis-template
